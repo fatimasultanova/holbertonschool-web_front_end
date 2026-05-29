@@ -578,7 +578,7 @@ ul.row {
 
 .card-services a {
     display: block;
-    padding: 2rem; /* Root elementin (1rem) 2 qatı = 2rem */
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
